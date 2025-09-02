@@ -58,10 +58,10 @@ I am a platform engineer with strong interest and experience in Kubernetes, SRE 
 </div>
 
 ## What I'm Working On
-- Currently exploring: **Microservices architecture and distributed systems**
-- Working on: **Scalable web services and cloud-native applications**
-- Looking to collaborate on: **Open source projects in Go, Kubernetes, and web development**
-- Interested in: **System design, API development, cloud security, and DevOps automation**
+- Currently exploring: **Microservices architecture, distributed systems and LLMs on K8s**
+- Working on: **Kubernetes Controllers, testing K8s,  gRPC services**
+- Looking to collaborate on: **Open source projects in Go, Kubernetes, and API development**
+- Interested in: **System design, API development, cloud security & all things Kubernetes**
 
 ## My Expertise Areas
 - **Platform Engineering**: Building robust infrastructure and developer tools
@@ -70,4 +70,3 @@ I am a platform engineer with strong interest and experience in Kubernetes, SRE 
 - **Cloud Engineering**: AWS and GCP services and architecture
 - **Go Programming**: Writing clean, efficient, and maintainable Go code, mostly backend services
 - **Backend Development**: RESTful APIs, gRPC services, and database design
-- **Security**: Access control, signed URLs, and security hardening
