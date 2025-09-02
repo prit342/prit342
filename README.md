@@ -1,4 +1,4 @@
-# Hi there, I'm Prit!
+# Hi there, I'm Prit! 👋
 
 ## About Me
 I am a platform engineer with strong interest and experience in Kubernetes, SRE and Go programming. From cloud-native applications and Kubernetes controllers to web services and storage solutions, I enjoy solving complex problems with clean, maintainable code.
